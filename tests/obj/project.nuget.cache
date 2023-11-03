@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "LqIkspl4p51vv5t1qwefmkoYrzbwHlH+kGOEmLpY8JAeYhVz4dToEYhleBLQ1qNYMbAv/x/pUkyB+IJDgFsf7Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\oluca\\source\\repos\\docker-dotnet-sample\\tests\\tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages' doesn't exist.",
+      "libraryId": "Microsoft.NET.Test.Sdk"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages' doesn't exist.",
+      "libraryId": "xunit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages' doesn't exist.",
+      "libraryId": "xunit.runner.visualstudio"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages' doesn't exist.",
+      "libraryId": "coverlet.collector"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages' doesn't exist.",
+      "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL"
+    }
+  ]
+}
